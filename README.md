@@ -1,0 +1,1 @@
+This repository provides the code for the methods and experiments presented in our paper 'Iterative Sample Generation and Balance Approach for Improving Hyperspectral Remote Sensing Imagery Classification with Deep Learning Network'.
